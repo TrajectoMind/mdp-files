@@ -6,6 +6,7 @@ This repository contains `.mdp` input files for running Molecular Dynamics simul
 - 🌡 NVT Equilibration (`nvt.mdp`)
 - 🧊 NPT Equilibration (`npt.mdp`)
 - 🚀 Production MD (`md.mdp`)
+- 💧 Ionization (`ions.mdp`)
 
 ---
 
@@ -17,6 +18,7 @@ This repository contains `.mdp` input files for running Molecular Dynamics simul
 | `nvt.mdp`  | Equilibrates temperature (NVT)   |
 | `npt.mdp`  | Equilibrates pressure (NPT)      |
 | `md.mdp`   | Full MD production run           |
+| `ions.mdp` | Ion addition/neutralization      |
 
 ---
 
